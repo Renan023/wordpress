@@ -1,0 +1,16 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> List item (#6) link **/
+.ast-menu-shadow > li:nth-of-type(6) > a {
+	width: auto !important;
+}
+
+/** Geral >> #menu-item-475 .menu-link **/
+#menu-item-475 .menu-link {
+	background-image: linear-gradient(rgb(200, 95, 95), transparent) !important;
+	border-radius: 50px !important;
+}
+
